@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>🌟 A Star is Born</title>
+</head>
+
+<body>
+
+  <center><img src="20.bmp" alt="Kyouweeeel Me">
+
+    <h1>Kashu La-la</h1>
+
+    <p> <em>Dahling of Howllingwood. Syoupeh starlette extrodinaire.
+        Star of epic <strong>bark</strong> busters and entrancing vignettes, etc. </em>
+    </p>
+
+    <p>My manservant, Da <a href="file:///D:/Courses/Udemy%20Courses/Complete%20Web%20Development%202019/Atom%20Folder/HTML%20-%20Personal%20Site/index.html" >Shnoips</a> is a maker of fine blork buster entertainment and related fare.</p>
+    <p>
+      <em>(not)</em> My <em>(real)</em> <a href="Mommy Meanest.html">mommy </a>
+    </p>
+    <hr>
+  </center>
+  <h3>List of Dazzling Performances</h3>
+  <ul>
+    <li><a href="https://vimeo.com/321677328">Kashoot</a> Extrodinary super short clip reaveals the true thoughts & powers
+      contained within the canine cranium.</li>
+    <li><a href="https://vimeo.com/321682113">Only You</a> (Original Version)</li>
+    <li><a href="https://vimeo.com/321901851">Time to Go</a></li>
+    <li><a href="https://www.youtube.com/watch?v=rEZfOHqiqzc">La Vita del Kashu</a></li>
+  </ul>
+  <h3>Me Hobbies</h3>
+  <ol type="1">
+    <li>Howling</li>
+    <li>Charming the treats out of people</li>
+    <li>Lookin' Good</li>
+    <li>Eating</li>
+    <li><a href="Psychic Reading.HTML">Fortune Telling</a></li>
+  </ol>
+</body>
+
+</html>
